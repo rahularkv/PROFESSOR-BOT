@@ -1,13 +1,13 @@
 class script(object):   
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
-    ABOUT_TXT = """🍃 му иαмє :<a href=https://t.me/Eva_maria_bot> °•°✮мяѕ єνα❥‌⃟⃝🥀</a>
+    ABOUT_TXT = """<b>🍃 му иαмє :<a href=https://t.me/Eva_maria_bot> °•°✮мяѕ єνα❥‌⃟⃝🥀</a>
 🍃 ¢яєαтσя : <a href=https://t.me/Sachusachuz> 🖤⃝ѕαϲнυ🖤⃝ ѕαϲнυz࿐</a>
 🍃 ℓαиgυαgє : ρутнσи
 🍃 ℓιвяαяу : ρуяσgяαм
 🍃 ѕєяνєя : κογєϐ
 🍃 ∂αтα вαѕє : мσиgσ ∂в
-🍃 вυιℓ∂ ѕтαтυѕ : ν10.0 [ɞeṭa]"""
+🍃 вυιℓ∂ ѕтαтυѕ : ν10.0 [ɞeṭa]</b>"""
 
     SOURCE_TXT = """<b>അയ്യേ... പറ്റിച്ചേ... 😹
 
